@@ -7,7 +7,7 @@
         </v-col>
         <v-col>
           <v-btn
-            href="https://accounts.zoho.com/oauth/v2/auth?response_type=token&client_id=1000.92J0MQUOZOG3A90SD80OAT0RVUS4UN&scope=ZohoCreator.report.READ&redirect_uri=http://localhost/zoho/"
+            href="https://accounts.zoho.com/oauth/v2/auth?response_type=token&client_id=1000.92J0MQUOZOG3A90SD80OAT0RVUS4UN&scope=ZohoCreator.report.READ&redirect_uri=https://zohoapp.vercel.app"
             color="success"
             >Login</v-btn
           >
